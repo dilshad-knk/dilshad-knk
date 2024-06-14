@@ -14,6 +14,14 @@
   <a href="https://twitter.com/_dilshadali" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dilshadali" height="30" width="40" />
   </a>
+  <a href="https://linkedin.com/in/dilshad-knk" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:dilshadali.knk@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+  </a>
+  <br/>
+  Email: <a href="mailto:dilshadali.knk@gmail.com">dilshadali.knk@gmail.com</a>
 </p>
 
 
