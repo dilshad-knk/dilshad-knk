@@ -1,5 +1,7 @@
 ### Hi there, I'm Dilshad - Full Stack Developer 👋
 
+[![Follow me](https://img.shields.io/github/followers/dilshadali.svg?
+
 👀 I’m interested in software development, web technologies, and creating impactful projects.
 
 🌱 I’m currently learning and mastering various frontend and backend technologies, including React.js, Node.js, and TypeScript.
@@ -9,18 +11,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad-knk&show_icons=true&locale=en&layout=compact" alt="dilshad-knk" /></p>
 
+
+
 ## Connect with me
 
-[<img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" />][email]
-
-<br />
-
-## Badges
-
-[![GitHub followers](https://img.shields.io/github/followers/dilshadali.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dilshadali?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_dilshadali.svg?style=social)](https://twitter.com/_dilshadali)
+style=social&label=Follow&maxAge=2592000)](https://github.com/dilshadali?tab=followers)
+[![Connect on X](https://img.shields.io/twitter/follow/_dilshadali.svg?style=social)](https://twitter.com/_dilshadali)
 
 <br />
 
