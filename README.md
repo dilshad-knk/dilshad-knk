@@ -1,6 +1,6 @@
 ### Hi there, I'm Dilshad - Full Stack Developer 👋
 
-[![Follow me](https://img.shields.io/github/followers/dilshadali.svg?
+
 
 👀 I’m interested in software development, web technologies, and creating impactful projects.
 
@@ -13,22 +13,7 @@
 
 
 
-## Connect with me
 
-style=social&label=Follow&maxAge=2592000)](https://github.com/dilshadali?tab=followers)
-[![Connect on X](https://img.shields.io/twitter/follow/_dilshadali.svg?style=social)](https://twitter.com/_dilshadali)
-
-<br />
-
-## Email
-
-📧 dilshadali.knk@gmail.com
-
-<br />
-
-[twitter]: https://twitter.com/_dilshadali
-[linkedin]: https://linkedin.com/in/dilshad-knk
-[email]: mailto:dilshadali.knk@gmail.com
 
 
 <!---
