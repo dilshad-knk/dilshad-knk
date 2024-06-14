@@ -9,20 +9,30 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad-knk&show_icons=true&locale=en&layout=compact" alt="dilshad-knk" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_dilshadali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dilshadali" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dilshad-knk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:dilshadali.knk@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
-  </a>
-  <br/>
-  Email: <a href="mailto:dilshadali.knk@gmail.com">dilshadali.knk@gmail.com</a>
-</p>
+## Connect with me
+
+[<img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" />][email]
+
+<br />
+
+## Badges
+
+[![GitHub followers](https://img.shields.io/github/followers/dilshadali.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dilshadali?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_dilshadali.svg?style=social)](https://twitter.com/_dilshadali)
+
+<br />
+
+## Email
+
+📧 dilshadali.knk@gmail.com
+
+<br />
+
+[twitter]: https://twitter.com/_dilshadali
+[linkedin]: https://linkedin.com/in/dilshad-knk
+[email]: mailto:dilshadali.knk@gmail.com
 
 
 <!---
