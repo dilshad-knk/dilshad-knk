@@ -1,6 +1,6 @@
 ### Hi there, I'm Dilshad - Full Stack Developer 👋 
 
-[![GitHub followers](https://img.shields.io/github/followers/dilshadali.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dilshad-knk?tab=followers)
+
 
 
 
