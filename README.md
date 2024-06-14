@@ -1,4 +1,4 @@
-### Hi there, I'm Dilshad - Full Stack Developer 👋
+### Hi there, I'm Dilshad - Full Stack Developer 👋 [![GitHub followers](https://img.shields.io/github/followers/dilshadali.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dilshadali?tab=followers)
 
 
 
@@ -18,10 +18,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshad-knk)
 [![Email Badge](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:dilshadali.knk@gmail.com)
 
-## Badges
 
-[![GitHub followers](https://img.shields.io/github/followers/dilshadali.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dilshadali?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_dilshadali.svg?style=social)](https://twitter.com/_dilshadali)
+
+
 
 
 
