@@ -12,6 +12,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad-knk&show_icons=true&locale=en&layout=compact" alt="dilshad-knk" /></p>
 
 
+## Connect with me
+
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoSize=auto&link=https%3A%2F%2Flinkedin.com%2Fin%2Fdilshad-knk)
+
 
 
 
