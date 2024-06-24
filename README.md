@@ -11,7 +11,7 @@ Portfolio Website : https://dilshadali.vercel.app/
 💼 I’m looking to collaborate on open-source projects related to web development and innovative software solutions.
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad-knk&show_icons=true&locale=en&layout=compact" alt="dilshad-knk" height=100/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad-knk&show_icons=true&locale=en&layout=compact" alt="dilshad-knk" height=1000 /></p>
 
 
 ## Connect with me
