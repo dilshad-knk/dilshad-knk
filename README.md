@@ -6,8 +6,6 @@ Portfolio Website : https://dilshadali.vercel.app/
 
 👀 I’m interested in software development, web technologies, and creating impactful projects.
 
-🌱 I’m currently learning and mastering various frontend and backend technologies, including React.js, Node.js, and TypeScript.
-
 💼 I’m looking to collaborate on open-source projects related to web development and innovative software solutions.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad-knk&show_icons=true&locale=en&layout=compact" alt="dilshad-knk" height=600 /></p>
